@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Derma Scan</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="upload_from_gallery">Upload from Gallery</string>
+    <string name="result_text">Result Text</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="detection_and_diagnosis_of_skin_cancer_cells_using_cnn_with_integrated_mobile_application">Detection and Diagnosis of Skin Cancer Cells Using CNN with Integrated Mobile Application.</string>
+</resources>

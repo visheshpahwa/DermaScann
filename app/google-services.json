@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "301252644924",
+    "project_id": "derma-scan-424aa",
+    "storage_bucket": "derma-scan-424aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301252644924:android:4e5956374ea5dcb2d3b339",
+        "android_client_info": {
+          "package_name": "com.example.dermascan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301252644924-oc4d07okf2aforu6k5ugojdrfa993ul2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dermascan",
+            "certificate_hash": "a2a0dc77a62c0aa101658b935a4530d052b3dbf5"
+          }
+        },
+        {
+          "client_id": "301252644924-nlhk03ajns8mm7iamlr5q8oigh536vdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD3eh49NCeK9xx1MLARMUJZJuL4JyS_Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301252644924-nlhk03ajns8mm7iamlr5q8oigh536vdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
